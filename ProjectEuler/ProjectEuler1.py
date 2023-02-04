@@ -1,7 +1,5 @@
-# criar uma lista para pegar a soma dos multiplos de 3
-# criar uma lista para pegar a soma dos multiplos de 5
-# criar uma lista para pegar a soma dos multiplos de 15
-# somar as duas primeiras e subtrair da terceira
+#If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+#Find the sum of all the multiples of 3 or 5 below 1000
 
 def MultiplosAbaixoDe1000(numero):
     multiplicador = 1000/numero
