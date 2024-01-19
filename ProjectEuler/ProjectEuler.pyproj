@@ -29,6 +29,10 @@
     <Compile Include="ProjectEuler3.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ProjectEuler6.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ProjectEuler6.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
