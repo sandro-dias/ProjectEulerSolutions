@@ -1,3 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-ProjectEuler6.Main();
+using ProjectEulerInC_;
+
+//ProjectEuler6.Main();
+ProjectEuler7.Main();
